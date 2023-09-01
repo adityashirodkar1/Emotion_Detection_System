@@ -1,6 +1,6 @@
 # Emotion_Detection_System
 
-# About
+## About
 The Emotion Detection System using Facial Features is a deep learning-based project that leverages Python, TensorFlow, and OpenCV to recognize and classify emotions from facial expressions. This system can analyze images or video streams in real-time, making it a valuable tool for a wide range of applications, from enhancing user experiences in human-computer interaction to monitoring emotional states in various contexts.
 
 # Key Features
